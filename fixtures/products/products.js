@@ -19,7 +19,7 @@ module.exports = [
     {
         _id: mongodb.ObjectId("63f9b857c456eed121844705"),
         name: "Netflix",
-        url: 'https://www.netflix.co.th'
+        url: 'https://www.netflix.com'
     },
     {
         _id: mongodb.ObjectId("63f9b85dd1e3331899987903"),
